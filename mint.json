@@ -20,6 +20,9 @@
     "url": "https://dashboard.mintlify.com"
   },
   "tabs": [
+    "primaryTab": {
+    "name": "Home"
+},
     {
       "name": "Connect to WIFI",
       "url": "api-reference"
