@@ -33,12 +33,12 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Documentations",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community",
+      "name": "Communitys",
       "icon": "slack",
       "url": "https://mintlify.com/community"
     },
